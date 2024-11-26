@@ -1,0 +1,22 @@
+2
+Greatest Hits
+Neil Diamond
+media/Greatesthits.jpg
+1
+3
+Crackling Rose
+sounds/01-Cracklin-rose.mp3
+Soolaimon
+sounds/06-Soolaimon.mp3
+Sweet Caroline
+sounds/20-Sweet_Caroline.mp3
+Coast to Coast
+Westlife
+media/Coast_To_Coast.jpg
+1
+2
+My Love
+sounds/01-My_Love.mp3
+What Makes a Man
+sounds/02-What_Makes_a_Man.mp3
+
